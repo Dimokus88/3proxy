@@ -14,9 +14,11 @@ services:
       - port: 80
         as: 80
         to:
+         - global: true 
       - port: 8088
         as: 8088
         to:
+         - global: true 
      
 profiles:
   compute:
