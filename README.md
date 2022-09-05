@@ -47,11 +47,13 @@ In this case, a simple proxy server **without authorization** will be deployed, 
 
 Details on the configuration on the developer's [website](https://3proxy.ru/download/devel/?l=EN).
 
+![image](https://user-images.githubusercontent.com/23629420/188477186-afd9f6eb-4a10-4a6a-8c21-d2e8ac0f1dc3.png)
+
 After the deployment is complete, specify the `Uri` of the server in your browser settings and **forwarded port** `8088`
 
 <p align="center"><img src="https://user-images.githubusercontent.com/23629420/188474288-826ba555-ed4f-4462-be65-3d66758d997e.png" width=100% </p>
 
-# Thank you for using Akash Network
+## Thank you for using Akash Network
 
 ___
 
@@ -65,10 +67,12 @@ ___
 
 Подробности по конфигурации на сайте разработчика  https://3proxy.ru/. 
 
+![image](https://user-images.githubusercontent.com/23629420/188476921-a04394e6-5a4c-4394-9abe-007e3890edb8.png)
+ 
 После окончания развертывания, укжите `Uri` сервера в настройках вашего браузера и **переаодресованный порт** `8088`
 
 <p align="center"><img src="https://user-images.githubusercontent.com/23629420/188474288-826ba555-ed4f-4462-be65-3d66758d997e.png" width=100% </p>
 
-# Спасибо что используете Akash Network
+## Спасибо что используете Akash Network
 
 ___
