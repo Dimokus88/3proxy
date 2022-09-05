@@ -38,16 +38,37 @@ Before you start - subscribe to our news channels:
 ___
 
 # English version
+
+### 3proxy deploy.
+
+Deploy [deploy.yml](https://github.com/Dimokus88/3proxy/blob/main/deploy.yml) **3proxy** with **Cloudmos (Akashlytics)** ([use instructions here]( https://github.com/Dimokus88/guides/blob/main/Akashlytics/EN-guide.md)).
+
+In this case, a simple proxy server **without authorization** will be deployed, listening on port `8088`. The server configuration is in the executable **shell** [script](https://github.com/Dimokus88/3proxy/blob/main/start.sh#L8-L12). Based on this [script](https://github.com/Dimokus88/3proxy/blob/main/start.sh) you can create your own `proxy` with authentication, proxy server type, logging and more.
+
+Details on the configuration on the developer's [website](https://3proxy.ru/download/devel/?l=EN).
+
+After the deployment is complete, specify the `Uri` of the server in your browser settings and **forwarded port** `8088`
+
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/188474288-826ba555-ed4f-4462-be65-3d66758d997e.png" width=100% </p>
+
+# Thank you for using Akash Network
+
+___
+
 # Русская версия
+ 
 ### Развертка 3proxy.
 
 Разверните [deploy.yml](https://github.com/Dimokus88/3proxy/blob/main/deploy.yml) **3proxy** с помощью **Cloudmos (Akashlytics)**  ([инструкция по использованию здесь](https://github.com/Dimokus88/guides/blob/main/Akashlytics/RU-guide.md)).
 
-В днном случае, будет развернуть простой PROXY без авторизации, порт для прослушивания 8088. Кофигурация сервера находится в исполняемом shell скрипте. Вы можете на основе этого скрипта создать свой proxy с аутентификацией, типом прокси сервера, логированием и многим другим. Подробности по конфигурации https://3proxy.ru/. 
+В днном случае, будет развернут простой proxy сервер **без авторизации**, порт для прослушивания `8088`. Кофигурация сервера находится в исполняемом **shell** [скрипте](https://github.com/Dimokus88/3proxy/blob/main/start.sh#L8-L12). Вы можете на основе этого [скрипта](https://github.com/Dimokus88/3proxy/blob/main/start.sh) создать свой `proxy` с аутентификацией, типом прокси сервера, логированием и многим другим. 
 
-После окончания развертывания, укжите Uri сервера в настройках вашего браузера и переаодресованный порт 8088
+Подробности по конфигурации на сайте разработчика  https://3proxy.ru/. 
+
+После окончания развертывания, укжите `Uri` сервера в настройках вашего браузера и **переаодресованный порт** `8088`
+
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/188474288-826ba555-ed4f-4462-be65-3d66758d997e.png" width=100% </p>
 
 # Спасибо что используете Akash Network
 
-
-
+___
