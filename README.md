@@ -1,7 +1,5 @@
-# 3proxy
-Proxy server on Akash | Прокси сервер на Akash
 <div align="center">
-  
+ 
 # 3proxy on Akash Network
 # 3proxy сервер, развертка в Akash Network.
   
@@ -9,7 +7,8 @@ Proxy server on Akash | Прокси сервер на Akash
   
 <div align="center">
 
-![pba](https://user-images.githubusercontent.com/23629420/163564929-166f6a01-a6e2-4412-a4e9-40e54c821f05.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/163564929-166f6a01-a6e2-4412-a4e9-40e54c821f05.png" width=70% </p>
+  
 | [Akash Network](https://akash.network/) | [Forum Akash Network](https://forum.akash.network/) | 
 |:--:|:--:|
 ___
