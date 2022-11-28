@@ -9,7 +9,6 @@ cat > /usr/bin/3proxy.cfg << EOF
 auth none
 log
 tcppm 80 websrv 80
-proxy -p80
 EOF
 
 3proxy /usr/bin/3proxy.cfg
