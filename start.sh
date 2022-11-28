@@ -1,5 +1,5 @@
 #!/bin bash
-apt-get install -y sudo make build-essential git
+apt-get install -y sudo make build-essential git tmate
 git clone https://github.com/3proxy/3proxy.git
 cd 3proxy
 sudo make -f Makefile.Linux
